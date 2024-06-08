@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773680822958",
+    "firebase_url": "https://fcmpro-a8806.firebaseio.com",
+    "project_id": "fcmpro-a8806",
+    "storage_bucket": "fcmpro-a8806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773680822958:android:40abd33afa23b4c7e7cb3f",
+        "android_client_info": {
+          "package_name": "com.example.todoapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773680822958-lhiioe4qjell6jtgr0dkmj9bhutc1tlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGuBy09JExiOB6rQrCzoGymHx8NrWlXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773680822958-lhiioe4qjell6jtgr0dkmj9bhutc1tlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
